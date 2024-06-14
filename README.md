@@ -8,5 +8,6 @@ Matthews, F., Panagos, P., & Verstraeten, G. (2022). Simulating event-scale rain
 
 To download the relevant data see:
 
+https://doi.org/10.6084/m9.figshare.26038927.v1
 
 The code runs directly when scripts are placed in the file with the input data.
